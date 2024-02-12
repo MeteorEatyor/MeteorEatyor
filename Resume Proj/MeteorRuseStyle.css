@@ -1,13 +1,22 @@
 body {
     background-color: black;
-    color: white;
-    font-family: fantasy;
+    color: rgb(253, 233, 233);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #Header{
     background-color: orange;
     text-align: center;
     text-decoration: underline;
-    font-size: xx-large;
+    font-size: 100px;
     color:black;
+}
+
+#SelfExplanatory{
+    margin-top: 100px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-style: dotted;
+    border-color: orange;
+    word-spacing: 5%;
 }
