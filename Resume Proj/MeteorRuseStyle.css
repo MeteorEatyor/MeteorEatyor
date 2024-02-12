@@ -4,7 +4,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#Header{
+#Banner{
     background-color: orange;
     text-align: center;
     text-decoration: underline;
@@ -18,5 +18,12 @@ body {
     margin-right: 20%;
     border-style: dotted;
     border-color: orange;
-    word-spacing: 5%;
+    padding-left: 40px;
+
+}
+a{
+    color: orange;
+}
+a:visited{
+    color: orangered;
 }
